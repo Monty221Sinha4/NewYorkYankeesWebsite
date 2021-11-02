@@ -16,19 +16,16 @@
             <img src="~/Photo/York 12.jpg" width="200" height="200" />
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-1">
-            <nav style="color:blue">
-                @Html.ActionLink("Home", "Home", "Home")
-                @Html.ActionLink("Gallery", "Gallery", "Home")
-                @Html.ActionLink("History", "History", "Home")
-                @Html.ActionLink("Video", "Video", "Home")
-                @Html.ActionLink("Squad", "Squad", "Home")
-            </nav>
+    <nav style="color:blue">
+        @Html.ActionLink("Home", "Home", "Home")
+        @Html.ActionLink("Gallery", "Gallery", "Home")
+        @Html.ActionLink("History", "History", "Home")
+        @Html.ActionLink("Video", "Video", "Home")
+        @Html.ActionLink("Squad", "CurrentSquad", "Home")
+        </nav>
+
+        <div>
+            @RenderBody()
         </div>
-    </div>
-    <div>
-        @RenderBody()
-    </div>
 </body>
 </html>
