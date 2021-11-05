@@ -106,6 +106,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewSheet.css" />
     <Content Include="Global.asax" />
+    <Content Include="Photo\Yankee 1.jpg" />
     <Content Include="Photo\Yankees 12.jpg" />
     <Content Include="Photo\York 12.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -164,6 +165,7 @@
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
     <Content Include="Views\Home\CurrentSquad.cshtml" />
+    <Content Include="Views\Home\Gallery.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
