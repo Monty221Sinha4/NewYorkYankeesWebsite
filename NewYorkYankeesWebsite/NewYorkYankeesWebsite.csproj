@@ -107,6 +107,8 @@
     <Content Include="Content\NewSheet.css" />
     <Content Include="Global.asax" />
     <Content Include="Photo\Yankee 1.jpg" />
+    <Content Include="Photo\Yankee 12.jpg" />
+    <Content Include="Photo\Yankee 23.jpg" />
     <Content Include="Photo\Yankees 12.jpg" />
     <Content Include="Photo\York 12.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
