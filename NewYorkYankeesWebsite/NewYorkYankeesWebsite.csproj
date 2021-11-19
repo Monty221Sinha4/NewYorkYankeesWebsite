@@ -106,10 +106,13 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewSheet.css" />
     <Content Include="Global.asax" />
+    <Content Include="Photo\Word 12.jpg" />
+    <Content Include="Photo\Yamless 1.jpg" />
     <Content Include="Photo\Yankee 1.jpg" />
     <Content Include="Photo\Yankee 12.jpg" />
     <Content Include="Photo\Yankee 23.jpg" />
     <Content Include="Photo\Yankees 12.jpg" />
+    <Content Include="Photo\Yankke sadtud.jfif" />
     <Content Include="Photo\York 12.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
