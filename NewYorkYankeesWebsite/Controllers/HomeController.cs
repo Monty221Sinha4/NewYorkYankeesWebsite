@@ -29,5 +29,9 @@ namespace NewYorkYankeesWebsite.Controllers
         {
             return View();
         }
+        public ActionResult ClubHistory()
+        {
+            return View();
+        }
     }
 }
